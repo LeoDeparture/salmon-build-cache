@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as React from 'react';\nimport AutoFormInfoComponents from './components/AutoFormInfoComponents';\nexport default (function () {\n  return React.createElement(AutoFormInfoComponents, null);\n});","map":null,"metadata":{},"sourceType":"module"}

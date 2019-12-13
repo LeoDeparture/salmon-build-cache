@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Router from 'next/router';\nexport default (function () {\n  return Router.push(\"/login\");\n});","map":null,"metadata":{},"sourceType":"module"}

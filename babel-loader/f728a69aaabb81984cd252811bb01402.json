@@ -1,0 +1,1 @@
+{"ast":null,"code":"// 正整数\nexport var positiveIntegerReg = new RegExp('^[1-9][0-9]*$'); // 非负整数\n\nexport var noNegativeIntegerReg = new RegExp(/^(0|([1-9]\\d*))$/); // 正整数或一位小数\n\nexport var positiveOneDigitDecimal = new RegExp(/^([1-9][0-9]*(\\.[1-9])?)$|^(0(\\.[1-9]))$/);","map":null,"metadata":{},"sourceType":"module"}

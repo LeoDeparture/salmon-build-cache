@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { ChapterDetail } from '../routes/subscriptionCourse/chapter/components/ChapterDetailMain';\nexport default ChapterDetail;","map":null,"metadata":{},"sourceType":"module"}

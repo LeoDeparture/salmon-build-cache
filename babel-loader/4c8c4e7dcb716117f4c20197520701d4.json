@@ -1,0 +1,1 @@
+{"ast":null,"code":"import GroupCourseDetailsContainers from './containers/GroupCourseDetailsContainers';\nexport default GroupCourseDetailsContainers;","map":null,"metadata":{},"sourceType":"module"}

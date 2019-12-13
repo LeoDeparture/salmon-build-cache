@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SubscriptionCourseSeriesDetail } from '../routes/subscriptionCourse/subscriptionCourseSeries/components/SubscriptionCourseSeriesDetailMain';\nexport default SubscriptionCourseSeriesDetail;","map":null,"metadata":{},"sourceType":"module"}

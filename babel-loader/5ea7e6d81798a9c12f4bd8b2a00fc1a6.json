@@ -1,0 +1,1 @@
+{"ast":null,"code":"import SubscriptionCourseCategoryMain from '../routes/subscriptionCourse/subscriptionCourseCategory/components/SubscriptionCourseCategoryMain';\nexport default SubscriptionCourseCategoryMain;","map":null,"metadata":{},"sourceType":"module"}

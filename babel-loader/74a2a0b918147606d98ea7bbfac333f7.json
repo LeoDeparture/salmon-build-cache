@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SectionDetail } from '../routes/subscriptionCourse/section/components/SectionDetailMain';\nexport default SectionDetail;","map":null,"metadata":{},"sourceType":"module"}

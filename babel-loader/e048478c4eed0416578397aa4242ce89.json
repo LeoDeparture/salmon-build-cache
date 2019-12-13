@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nimport FunctionConfigContainer from './containers/FunctionConfigContainer';\nexport default (function () {\n  return React.createElement(FunctionConfigContainer, null);\n});","map":null,"metadata":{},"sourceType":"module"}

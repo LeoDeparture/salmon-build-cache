@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { SubscriptionCourseDetail } from '../routes/subscriptionCourse/components/SubscriptionCourseDetailMain';\nexport default SubscriptionCourseDetail;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import styled from 'styled-components';\nvar FlexTop = styled.div.withConfig({\n  displayName: \"FlexTop\",\n  componentId: \"ac5pc9-0\"\n})([\"display:flex;margin-top:20px;\"]);\nexport default FlexTop;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import CourseCategory from './containers/CourseCategoryContainer';\nexport default CourseCategory;","map":null,"metadata":{},"sourceType":"module"}

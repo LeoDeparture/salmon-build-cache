@@ -1,0 +1,1 @@
+{"ast":null,"code":"export var formatDict = {\n  word: '文档',\n  excel: '电子表格',\n  ppt: '演示文稿',\n  image: '图片',\n  audio: '音频',\n  video: '视频',\n  pdf: 'PDF',\n  other: '其他'\n}; // export const DEFAULT_AVATAR = '../../../../../../../static/default_avatar.png';","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import \"antd/lib/message/style\";\nimport _message from \"antd/lib/message\";\nimport { handleConfirmOtherError } from '../../lib/handleError';\nexport var handleCommonErr = function handleCommonErr(err) {\n  if (handleConfirmOtherError(err)) {\n    _message.error('操作失败');\n  }\n};","map":null,"metadata":{},"sourceType":"module"}
